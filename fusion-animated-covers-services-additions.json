@@ -1,0 +1,14 @@
+[
+  {
+    "id": "cb80aeb6-bd4f-4b9a-9ecd-185be686eacd",
+    "title": "Cartoon Network",
+    "videoURL": "https://YOUR_PUBLIC_HOST/cartoon-network-fusion.mp4",
+    "backgroundURL": "https://YOUR_PUBLIC_HOST/cartoon-network-background.png"
+  },
+  {
+    "id": "0df7246f-8e7e-4633-9633-e9bc35739001",
+    "title": "Shahid",
+    "videoURL": "https://YOUR_PUBLIC_HOST/shahid-fusion.mp4",
+    "backgroundURL": "https://YOUR_PUBLIC_HOST/shahid-background.png"
+  }
+]
