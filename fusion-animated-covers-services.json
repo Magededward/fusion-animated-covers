@@ -1,0 +1,128 @@
+[
+  {
+    "id": "978ca4b4-91c4-4790-9c7e-d35ba314b555",
+    "title": "Netflix",
+    "videoURL": "https://raw.githubusercontent.com/Magededward/fusion-animated-covers/main/videos/netflix.mp4",
+    "backgroundURL": "https://raw.githubusercontent.com/Magededward/fusion-animated-covers/main/static/netflix.png"
+  },
+  {
+    "id": "f1d1b42f-4198-485a-85d8-6d1f1517acce",
+    "title": "Disney+",
+    "videoURL": "https://raw.githubusercontent.com/Magededward/fusion-animated-covers/main/videos/disney-plus.mp4",
+    "backgroundURL": "https://raw.githubusercontent.com/Magededward/fusion-animated-covers/main/static/disney-plus.png"
+  },
+  {
+    "id": "64d0e002-0248-4cf8-b5d6-123a34373a5f",
+    "title": "Apple TV",
+    "videoURL": "https://raw.githubusercontent.com/Magededward/fusion-animated-covers/main/videos/apple-tv.mp4",
+    "backgroundURL": "https://raw.githubusercontent.com/Magededward/fusion-animated-covers/main/static/apple-tv.png"
+  },
+  {
+    "id": "0362ed1d-45cc-477b-ab8e-87e737d2a965",
+    "title": "Prime Video",
+    "videoURL": "https://raw.githubusercontent.com/Magededward/fusion-animated-covers/main/videos/prime-video.mp4",
+    "backgroundURL": "https://raw.githubusercontent.com/Magededward/fusion-animated-covers/main/static/prime-video.png"
+  },
+  {
+    "id": "8364db69-a74c-42d7-910a-862bfba67bf2",
+    "title": "HBO Max",
+    "videoURL": "https://raw.githubusercontent.com/Magededward/fusion-animated-covers/main/videos/hbo-max.mp4",
+    "backgroundURL": "https://raw.githubusercontent.com/Magededward/fusion-animated-covers/main/static/hbo-max.png"
+  },
+  {
+    "id": "751740f7-e75e-44d2-8436-30989f0d09be",
+    "title": "Paramount+",
+    "videoURL": "https://raw.githubusercontent.com/Magededward/fusion-animated-covers/main/videos/paramount-plus.mp4",
+    "backgroundURL": "https://raw.githubusercontent.com/Magededward/fusion-animated-covers/main/static/paramount-plus.png"
+  },
+  {
+    "id": "bd7f852a-5b5c-41f7-8fbf-61a3f3cf1444",
+    "title": "Hulu",
+    "videoURL": "https://raw.githubusercontent.com/Magededward/fusion-animated-covers/main/videos/hulu.mp4",
+    "backgroundURL": "https://raw.githubusercontent.com/Magededward/fusion-animated-covers/main/static/hulu.png"
+  },
+  {
+    "id": "36bdb3b0-bfe5-4125-8a1b-ee5ad940f69f",
+    "title": "Peacock",
+    "videoURL": "https://raw.githubusercontent.com/Magededward/fusion-animated-covers/main/videos/peacock.mp4",
+    "backgroundURL": "https://raw.githubusercontent.com/Magededward/fusion-animated-covers/main/static/peacock.png"
+  },
+  {
+    "id": "92652ab5-145b-4c43-b9ea-76cbbdadaf10",
+    "title": "STARZ",
+    "videoURL": "https://raw.githubusercontent.com/Magededward/fusion-animated-covers/main/videos/starz.mp4",
+    "backgroundURL": "https://raw.githubusercontent.com/Magededward/fusion-animated-covers/main/static/starz.png"
+  },
+  {
+    "id": "9e923abc-ecab-408b-96d7-184c86244902",
+    "title": "MUBI",
+    "videoURL": "https://raw.githubusercontent.com/Magededward/fusion-animated-covers/main/videos/mubi.mp4",
+    "backgroundURL": "https://raw.githubusercontent.com/Magededward/fusion-animated-covers/main/static/mubi.png"
+  },
+  {
+    "id": "dd182a3d-dc94-43b9-be71-4d7fb5f1a510",
+    "title": "Crunchyroll",
+    "videoURL": "https://raw.githubusercontent.com/Magededward/fusion-animated-covers/main/videos/crunchyroll.mp4",
+    "backgroundURL": "https://raw.githubusercontent.com/Magededward/fusion-animated-covers/main/static/crunchyroll.png"
+  },
+  {
+    "id": "853d3446-664a-412b-b974-d5191930172d",
+    "title": "The Criterion Channel",
+    "videoURL": "https://raw.githubusercontent.com/Magededward/fusion-animated-covers/main/videos/the-criterion-channel.mp4",
+    "backgroundURL": "https://raw.githubusercontent.com/Magededward/fusion-animated-covers/main/static/the-criterion-channel.png"
+  },
+  {
+    "id": "9a46e01b-622f-4e65-83e6-33e2bd6ec27c",
+    "title": "Shudder",
+    "videoURL": "https://raw.githubusercontent.com/Magededward/fusion-animated-covers/main/videos/shudder.mp4",
+    "backgroundURL": "https://raw.githubusercontent.com/Magededward/fusion-animated-covers/main/static/shudder.png"
+  },
+  {
+    "id": "d7573d6c-0080-4914-b597-195e9ab97d2f",
+    "title": "AMC+",
+    "videoURL": "https://raw.githubusercontent.com/Magededward/fusion-animated-covers/main/videos/amc-plus.mp4",
+    "backgroundURL": "https://raw.githubusercontent.com/Magededward/fusion-animated-covers/main/static/amc-plus.png"
+  },
+  {
+    "id": "153808e5-88c8-407d-b9b5-b08d2957af2c",
+    "title": "britbox",
+    "videoURL": "https://raw.githubusercontent.com/Magededward/fusion-animated-covers/main/videos/britbox.mp4",
+    "backgroundURL": "https://raw.githubusercontent.com/Magededward/fusion-animated-covers/main/static/britbox.png"
+  },
+  {
+    "id": "3c795950-fdb5-4f49-97de-c5fb486787ed",
+    "title": "Discovery+",
+    "videoURL": "https://raw.githubusercontent.com/Magededward/fusion-animated-covers/main/videos/discovery-plus.mp4",
+    "backgroundURL": "https://raw.githubusercontent.com/Magededward/fusion-animated-covers/main/static/discovery-plus.png"
+  },
+  {
+    "id": "1d2cf333-78f7-4d0b-8066-9aecead88e06",
+    "title": "Curiosity Stream",
+    "videoURL": "https://raw.githubusercontent.com/Magededward/fusion-animated-covers/main/videos/curiosity-stream.mp4",
+    "backgroundURL": "https://raw.githubusercontent.com/Magededward/fusion-animated-covers/main/static/curiosity-stream.png"
+  },
+  {
+    "id": "1276b046-3316-4b9a-961f-b51a266f8ebc",
+    "title": "MagellanTV",
+    "videoURL": "https://raw.githubusercontent.com/Magededward/fusion-animated-covers/main/videos/magellantv.mp4",
+    "backgroundURL": "https://raw.githubusercontent.com/Magededward/fusion-animated-covers/main/static/magellantv.png"
+  },
+  {
+    "id": "66ac6c8a-ec12-40a5-8e74-b82d6245fdd8",
+    "title": "Netflix Kids",
+    "videoURL": "https://raw.githubusercontent.com/Magededward/fusion-animated-covers/main/videos/netflix-kids.mp4",
+    "backgroundURL": "https://raw.githubusercontent.com/Magededward/fusion-animated-covers/main/static/netflix-kids.png"
+  },
+  {
+    "id": "cb80aeb6-bd4f-4b9a-9ecd-185be686eacd",
+    "title": "Cartoon Network",
+    "videoURL": "https://raw.githubusercontent.com/Magededward/fusion-animated-covers/main/videos/cartoon-network.mp4",
+    "backgroundURL": "https://raw.githubusercontent.com/Magededward/fusion-animated-covers/main/static/cartoon-network.png"
+  },
+  {
+    "id": "0df7246f-8e7e-4633-9633-e9bc35739001",
+    "title": "Shahid",
+    "videoURL": "https://raw.githubusercontent.com/Magededward/fusion-animated-covers/main/videos/shahid.mp4",
+    "backgroundURL": "https://raw.githubusercontent.com/Magededward/fusion-animated-covers/main/static/shahid.png"
+  }
+]
